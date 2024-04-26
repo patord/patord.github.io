@@ -1,13 +1,14 @@
 # Data Analyst
+*Technical Skills: Python, SQL*
 
-### Education
-Baker, BCIS
-WGU, MSDA
+## Education
+- M.S., Data Analytics, WGU (June 2024)
+- B.S., Computer Information Systems (June 2007)
 
-### Work Experience
+## Work Experience
 Tech @ BT
 - item
 - more items
 
-### Projects
-- TBD
+## Projects
+- Coming Soon
