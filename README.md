@@ -1,14 +1,14 @@
 # Data Analyst
-*Technical Skills: Python, SQL*
+**Technical Skills:** 
+- Python: programming, pandas, numpy, sklearn, statsmodels
+- SQL: SQL server, postgres, mySQL, sybase, informix
 
 ## Education
-- M.S., Data Analytics, WGU (June 2024)
-- B.S., Computer Information Systems (June 2007)
-
-## Work Experience
-Tech @ BT
-- item
-- more items
+- M.S., Data Analytics, *Western Governors University*
+- B.S., Computer Information Systems, *Baker College*
 
 ## Projects
-- Coming Soon
+- Regression Coming Soon
+- Classification Coming Soon
+- Clustering Coming Soon
+- Tableau Coming Soon
